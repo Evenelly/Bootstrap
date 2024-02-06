@@ -1,0 +1,12 @@
+.navbar-image-behind{
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+}
+
+.mt-0 {
+    margin-top: 600px !important;
+}
+
